@@ -1,0 +1,43 @@
+.navbar-nav
+	{
+		margin-left: 4em;
+	}
+
+.index
+{
+	background-image: url(PotentialBackgrounds/BurningCrusade.jpg);
+}
+.leftSide
+{
+	float: left;
+	height:auto;
+	padding-top: 1em;
+	
+}
+.rightSide
+{
+	float: right;
+	height:auto;
+	padding-top: 1em;
+	padding: 0.5em;
+	background-color: #08080857;
+	
+}
+.image-container
+{
+	color:white;
+	font-size: 20px;
+}
+a:hover {
+    background-color: yellow;
+}
+
+
+
+.addons
+	{
+		margin-top: 2em;
+		font-size: 2em;
+		background-color: skyblue;
+	}
+	
